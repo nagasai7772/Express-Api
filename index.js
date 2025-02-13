@@ -1,21 +1,3 @@
-// const express=require('express');
-// const app=express();
-// port=3007;
-// app.get('/body',(req,res)=>
-// {
-//     res.send({
-//         msg:"Hello im get"
-//     })
-// })
-
-// app.listen(port,()=>
-// {
-//     console.log('server is running');
-    
-// })
-
-
-
 
 const express=require('express');
 const app=express();
